@@ -3,7 +3,7 @@ import React from 'react'
 const Test = () => {
     return(
         <div>
-            React Minimal Boilerplate
+            React Boilerplate app with Typescript
         </div>
     )
 }
